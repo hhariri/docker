@@ -1,5 +1,4 @@
-# DOCKER-VERSION
-
+# Docker for Jekyll 
 FROM alpine:latest
 MAINTAINER Hadi Hariri <mail@hadihariri.com>
 

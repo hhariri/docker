@@ -19,4 +19,3 @@ RUN rm -rf /var/cache/apk/*
 RUN gem install jekyll redcarpet kramdown maruku rdiscount RedCloth liquid pygments.rb \
     jekyll-paginate jekyll-sass-converter
 
-EXPOSE 4000 4000
